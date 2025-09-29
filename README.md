@@ -6,7 +6,7 @@
 
 -Conducted exploratory data analysis (EDA) to identify trends and anomalies.
 
- Data Analysis and Insights Generation:
+ // Data Analysis and Insights Generation:
  
 -Analyzed the dataset to identify key business insights.
 
@@ -19,6 +19,7 @@
 -Suggested actionable recommendations for Quantium's business strategy.
 
  Key Skills Demonstrated
+ 
 -Data Cleaning: Ensuring datasets are accurate and consistent.
 
 -Data Visualization: Creating impactful graphs and charts to present findings.
